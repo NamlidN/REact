@@ -1,0 +1,38 @@
+
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgb(13, 96, 13);
+    padding:2rem;
+}
+.hh1{
+    color:white;
+    font-size: 3rem;
+    margin: 1rem;
+}
+.p1{
+    text-align: center;
+    margin: 2rem;
+}
+.FirstSection{
+    display: flex;
+   gap: 1rem
+   ;
+flex-direction: row;
+text-align: center;
+}
+.hp{
+    text-align: center;
+}
+.article2{
+
+border-left:  solid white 5px;
+padding-right: 1rem;
+border-right:  solid white 5px;
+
+} 
+.article3{
+    border-right:  solid white 5px;
+}

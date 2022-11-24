@@ -1,0 +1,55 @@
+.main {
+    padding: 15rem;
+ 
+}
+
+.wwd {
+    text-align: center;
+    color: green;
+}
+
+.we {
+    text-align: center;
+}
+
+.vier {
+    margin-top: 5rem;
+    display: flex;
+    flex-direction: row;
+    gap: 15rem;
+    position: relative;
+}
+
+.block1::before {
+    content: url('../../img/brush.svg');
+    position: absolute;
+    left: -5rem;
+
+}
+
+.block2::before {
+    content: url('../../img/megaphone.svg');
+    position: absolute;
+    left: -5rem;
+
+}
+
+.block3::before {
+    position: absolute;
+    content: url('../../img/object-select.svg');
+display: inline-block;
+margin-left: -5rem;
+
+
+}
+.block4::before{
+ position: absolute;
+   margin-right: 23rem;
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+    content: "";
+    background: url("../../img/globe-line.svg") no-repeat 0 0;
+    background-size: 90px 90px;
+    margin-left: -6rem;
+    }

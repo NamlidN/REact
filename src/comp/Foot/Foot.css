@@ -1,0 +1,77 @@
+.footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+   
+    height: fit-content;
+}
+.blockk1{
+    display: flex;
+    flex-direction: row;
+  gap: 1rem;
+}
+.blockk2{
+    display: flex;
+    flex-direction: row;
+  gap: 1rem;
+}
+.coco{
+    display: flex;
+    flex-direction: column;
+
+}
+.image1{
+    background-image: url('../../img/frikadellen.jpeg');
+height: 10rem;
+background-position: center;
+background-size: cover;
+}
+.image2{
+    background-image: url('../../img/frikadellen.jpeg');
+height: 10rem;
+background-position: center;
+background-size: cover;
+}
+.image3{
+    background-image: url('../../img/frikadellen.jpeg');
+height: 10rem;
+background-position: center;
+background-size: cover;
+}
+.image4{
+    background-image: url('../../img/frikadellen.jpeg');
+height: 10rem;
+background-position: center;
+background-size: cover;
+}
+.image5{
+    background-image: url('../../img/frikadellen.jpeg');
+height: 10rem;
+background-position: center;
+background-size: cover;
+}
+.image6{
+    background-image: url('../../img/frikadellen.jpeg');
+height: 10rem;
+background-position: center;
+background-size: cover;
+}
+.image7{
+    background-image: url('../../img/frikadellen.jpeg');
+height: 10rem;
+background-position: center;
+background-size: cover;
+}
+.image8{
+    background-image: url('../../img/frikadellen.jpeg');
+height: 10rem;
+background-position: center;
+background-size: cover;
+}
+.blau{
+    color: blueviolet;
+}
+.preis{
+color: red;
+}
